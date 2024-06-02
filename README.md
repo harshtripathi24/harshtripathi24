@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshtripathi24&label=Profile%20views&color=0e75b6&style=flat" alt="harshtripathi24" /> </p>
 
+<img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlxbG5sbWpjZ2M2aWM5cmNnYmtxaWZzdmMwMmlmd3E4NG4wN3FpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+
 - 🧑‍💻 I’m currently working at: **Rostris Infotech**
 
 - 🌱 I’m constantly learning: **New development tools and technology**
