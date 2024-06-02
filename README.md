@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshtripathi24&label=Profile%20views&color=0e75b6&style=flat" alt="harshtripathi24" /> </p>
 
-- 🧑‍💻 I’m currently working at **Rostris Infotech**
+- 🧑‍💻 I’m currently working at: **Rostris Infotech**
 
-- 🌱 I’m constantly learning **New development tools and technology**
+- 🌱 I’m constantly learning: **New development tools and technology**
 
-- 🖥️ I’m looking Forward to Work On **Interesting Web and App Projects**
+- 🖥️ I’m Looking forward to Work On: **Interesting Web and App Projects**
 
-- 🥸 Enthusiastic About **AI (Artificial Intelligence)**
+- 🥸 Enthusiastic About: **AI (Artificial Intelligence)**
 
 - 🤔For More info Check My Resume: [https://drive.google.com/file/d/1OvHEbKawcmFYk1VcGHuTeSro4RJUacAW/view?usp=sharing](https://drive.google.com/file/d/1OvHEbKawcmFYk1VcGHuTeSro4RJUacAW/view?usp=sharing)
 
-- 💬 Ask me about **MERN, DevOps and AI**
+- 💬 Ask me about: **MERN, DevOps and AI**
 
-- 📫 To reach me **harshtripathi.work@gmail.com**
+- 📫 To reach me: **harshtripathi.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
